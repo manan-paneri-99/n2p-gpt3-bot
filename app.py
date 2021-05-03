@@ -4,7 +4,7 @@ from n2pbot import convert, append_interaction_to_chat_log
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'kEy@secReT_notes-to-points'
+app.config['SECRET_KEY'] = '****************'
 
 @app.route('/n2pbot', methods = ['POST'])
 def n2pbot():
