@@ -25,6 +25,4 @@ Here are some examples:
   "As per the next meeting agenda on the N2P project, Jack presented the progress of the project. He stated that the project is ready for production. He requested suggestions on the SMS API. Mark suggested Twilio as the SMS API because of its smooth integration. The suggestion was approved. Updating on the progress of the project was added to the next meet's agenda."
   ```
   
-  ### Scope: 
-  * Extended features such as scanning handwritten notes to genrate report points using CNNs for character recognition
   
